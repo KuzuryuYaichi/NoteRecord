@@ -1,0 +1,2 @@
+extra_flag -O0 会覆盖掉之前的-O2的编译选项 -g添加symbol调试符号
+call stack trace 不能用show view那个 debug core0进入断点后自动显示
